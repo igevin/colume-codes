@@ -19,3 +19,13 @@
 
 # Go workspace file
 go.work
+
+#########
+# IDE
+#########
+.idea
+
+########
+# Mac
+########
+.DS_Store
